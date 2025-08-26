@@ -1,0 +1,5 @@
+/opt/my_run_neural_network/app/bin/PLifeCycleManagermanifest.json
+/opt/my_run_neural_network/app/libs/classification/libclassification.so
+/opt/my_run_neural_network/app/libs/classification/Classification_manifest.json
+/opt/my_run_neural_network/app/res/models/Classification_default_attribute_0.json
+/opt/my_run_neural_network/app/res/models/Classification_manifest_instance_0.json

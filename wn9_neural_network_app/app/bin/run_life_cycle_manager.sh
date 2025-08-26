@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=../libs:$LD_LIBRARY_PATH ./life_cycle_manager &

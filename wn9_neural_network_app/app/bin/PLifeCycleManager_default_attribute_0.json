@@ -1,0 +1,16 @@
+{
+        "Name":"PLifeCycleManager",
+        "Attributes":
+        [
+                {
+                        "ExternalKey":"SkeletonWBufferSize",
+                        "TypeCode":"I",
+                        "Value":8192
+                },
+                {
+                        "ExternalKey":"SkeletonRBufferSize",
+                        "TypeCode":"I",
+                        "Value":8192
+                }
+	]
+}

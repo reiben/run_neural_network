@@ -1,0 +1,1 @@
+{"Name":"PLifeCycleManager","Version":"0.0.0","Attributes":[{"ExternalKey":"ContainerName","TypeCode":"s","Value":""},{"ExternalKey":"SkeletonRBufferSize","TypeCode":"I","Value":8192},{"ExternalKey":"SkeletonWBufferSize","TypeCode":"I","Value":8192}]}
